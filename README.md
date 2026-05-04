@@ -42,6 +42,12 @@ images, sec = sample_and_time(model, DDIMScheduler, 50, config)
 images[0].show()
 ```
 
+```python
+# DDPM, 1000 шагов, 4 картинки
+images, sec = sample_and_time(model, DDPMScheduler, 1000, config)
+images[0].show()
+```
+
 ## Результаты
 
 ### График Loss
