@@ -42,7 +42,7 @@
 ### Примеры сгенерированных изображений
 Ниже представлены результаты генерации на финальной эпохе (500):
 
-![Samples Epoch 500](samples_hf/epoch_500.png)
+![Samples Epoch 500](pictures/epoch_500.png)
 
 ### Сравнение DDPM и DDIM
 Замеры проводились на устройстве Apple M-series (MPS):
