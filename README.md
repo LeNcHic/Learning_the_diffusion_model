@@ -40,6 +40,7 @@
 # DDIM, 50 шагов, 4 картинки
 images, sec = sample_and_time(model, DDIMScheduler, 50, config)
 images[0].show()
+```
 
 ## Результаты
 
